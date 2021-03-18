@@ -1,0 +1,5 @@
+setup.py
+nlp_tasks.egg-info/PKG-INFO
+nlp_tasks.egg-info/SOURCES.txt
+nlp_tasks.egg-info/dependency_links.txt
+nlp_tasks.egg-info/top_level.txt
